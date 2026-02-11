@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SalcosArsenal</AssemblyName>
+    <RootNamespace>SalcosArsenal</RootNamespace>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="package.json" Pack="true" />
+  </ItemGroup>
+</Project>
