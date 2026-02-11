@@ -1,0 +1,26 @@
+{
+  "_id": "698101e3e4324baee4ffbf25",
+  "areaType": 7,
+  "requirements": [
+    {
+      "areaType": 7,
+      "requiredLevel": 3,
+      "type": "Area"
+    },
+    {
+      "templateId": "5c0e533786f7747fa23f4d47",
+      "count": 3,
+      "isFunctional": false,
+      "isEncoded": false,
+      "type": "Item"
+    }
+  ],
+  "productionTime": 5,
+  "needFuelForAllProductionTime": false,
+  "locked": false,
+  "endProduct": "6956bc4eda59956674d9bde3",
+  "continuous": false,
+  "count": 1,
+  "productionLimitCount": 0,
+  "isEncoded": false
+}

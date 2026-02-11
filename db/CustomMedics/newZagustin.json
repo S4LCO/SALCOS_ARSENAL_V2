@@ -1,0 +1,67 @@
+{
+  "6956bc4eda59956674d9bde3": {
+    "itemTplToClone": "5c0e533786f7747fa23f4d47",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "medUseTime": 3,
+      "MaxHpResource": 3,
+      "RarityPvE": "Superrare",
+	  "StimulatorBuffs": "6956bc4eda59956674d9bde3"
+    },
+    "locales": {
+      "en": {
+        "name": "Zagustin hemostatic drug injector | Mk.2",
+        "shortName": "Zagustin",
+        "description": "An advanced Zagustin formulation that quickly halts bleeding and stabilizes the patient for longer."
+      }
+    },
+    "fleaPriceRoubles": 156541,
+    "handbookPriceRoubles": 33540,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 398,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

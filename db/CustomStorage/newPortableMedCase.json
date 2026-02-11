@@ -1,0 +1,105 @@
+{
+  "69838c062aa8367effd21d23": {
+    "itemTplToClone": "5d235bb686f77443f4331278",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.35,
+	  "RarityPvE": "Superrare",
+      "Grids": [
+        {
+          "_id": "69838c2a86570a44d471f6f5",
+          "_name": "1",
+          "_parent": "696b7bc5221a51a278f20ed8",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "57864c8c245977548867e7f1",
+				  "543be5664bdc2dd4348b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }		
+      ],
+      "Prefab": {
+        "path": "assets/content/items/barter/item_container_injectorcase/item_container_injectorcase.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Portable Med Case",
+        "shortName": "PMC",
+        "description": "A compact medical case for carrying essential treatment supplies. Lightweight, secure, and ideal for keeping medical items organized inside a secure container."
+      }
+    },
+    "fleaPriceRoubles": 250987,
+    "handbookPriceRoubles": 72541,
+    "addtoBots": true,
+    "addtoInventorySlots": [],
+    "addtoTraders": false,
+    "addtoStaticLootContainers": false,
+	"addtoSecureFilters": true,
+    "staticLootContainers": [
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_CIVILIAN_BODY"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DRAWER"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_JACKET"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_JACKET_2X2_2"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

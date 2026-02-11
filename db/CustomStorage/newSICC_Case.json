@@ -1,0 +1,145 @@
+{
+  "6983aeb4f504e2d9d7d3e037": {
+    "itemTplToClone": "5d235bb686f77443f4331278",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 2,
+      "Weight": 0.185,
+	  "RarityPvE": "Superrare",
+      "Grids": [
+        {
+          "_id": "6983aef036dc66b2c0b30dcb",
+          "_name": "1",
+          "_parent": "5d235bb686f77443f4331278",
+          "_props": {
+            "cellsH": 7,
+            "cellsV": 7,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "59faff1d86f7746c51718c9c",
+				  "5f745ee30acaeb0d490d8c5b",
+				  "5c1267ee86f77416ec610f72",
+				  "5d235a5986f77443f6329bc6",
+				  "59f32bb586f774757e1e8442",
+				  "59f32c3b86f77472a31742f0",
+				  "590c621186f774138d11ea29",
+				  "543be5e94bdc2df1348b4568",
+				  "543be5dd4bdc2deb348b4569",
+				  "6662e9aca7e0b43baa3d5f74",
+				  "6662e9cda7e0b43baa3d5f76",
+				  "6662e9f37fa79a6d83730fa0",
+				  "6662ea05f6259762c56f3189",
+				  "67449b6c89d5e1ddc603f504",
+				  "6759673c76e93d8eb20b2080",
+				  "675dc9d37ae1a8792107ca96",
+				  "675dcb0545b1a2d108011b2b",
+				  "6764207f2fa5e32733055c4a",
+				  "6764202ae307804338014c1a",
+				  
+				  "573474f924597738002c6174", 
+				  "5734758f24597738025ee253",
+				  "62a09cfe4f842e1bd12da3e4",
+				  "59faf7ca86f7740dbe19f6c2",
+				  "62a09cb7a04c0c5c6e0a84f8",
+				  "590c651286f7741e566b6461",
+				  "62a091170b9d3c46de5b6cf2",
+				  "5bc9bdb8d4351e003562b8a1",
+				  "590c645c86f77412b01304d9",
+				  "5c1265fc86f7743f896a21c2",
+				  "64f09c02b63b74469b6c149f",
+				  "6389c8fb46b54c634724d847",
+				  "590c37d286f77443be3d7827",
+				  "590c392f86f77444754deb29",
+				  "62a0a124de7ac81993580542",
+				  "5bc9b720d4351e450201234b",
+				  "61bf7c024770ee6f9c6b8b53",
+				  "5c12613b86f7743bbe2c3f76",
+				  
+				  "5bc9c049d4351e44f824d360",
+				  "6656560053eaaa7a23349c86",
+				  "5bc9c377d4351e3bac12251b",
+				  "66b37ea4c5d72b0277488439",
+				  "62a09d3bcf4a99369e262447",
+				  "62a09e73af34e73a266d932a"
+				  
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }		
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "S I C C organizational pouch | Mk.2",
+        "shortName": "S I C C",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 3454578,
+    "handbookPriceRoubles": 750000,
+    "addtoBots": true,
+    "addtoInventorySlots": [],
+    "addtoTraders": false,
+    "addtoStaticLootContainers": false,
+	"addtoSecureFilters": true,
+    "staticLootContainers": [
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_CIVILIAN_BODY"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DRAWER"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_JACKET"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_JACKET_2X2_2"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

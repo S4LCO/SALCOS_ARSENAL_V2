@@ -1,0 +1,84 @@
+{
+  "6919defd80356dd043e9621a": {
+    "itemTplToClone": "5c0e534186f7747fa1419867",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "medUseTime": 3,
+      "MaxHpResource": 3,
+      "RarityPvE": "Superrare",
+	  "StimulatorBuffs": "6919defd80356dd043e9621a",
+	  "effects_health": {
+      "Energy": {
+        "value": -20
+      }
+    },
+      "effects_damage": {
+        "Pain": {
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 2
+        },
+        "Pain": {
+          "delay": 0,
+          "duration": 120,
+          "fadeOut": 3
+        }
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "eTG-change regenerative stimulant injector | Mk.2",
+        "shortName": "eTG-c",
+        "description": "An improved version of etG-Change. Significantly increases energy levels and reduces exhaustion for an extended duration."
+      }
+    },
+    "fleaPriceRoubles": 478418,
+    "handbookPriceRoubles": 54855,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 324,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

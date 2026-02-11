@@ -1,0 +1,161 @@
+{
+  "696b7bc5221a51a278f20ed8": {
+    "itemTplToClone": "64be7095047e826eae02b0c1",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+	  "IsAlwaysAvailableForInsurance": false,
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.05,
+	  "RarityPvE": "Superrare",
+      "UnlootableFromSide": [
+        "Bear",
+        "Usec"
+      ],
+      "Grids": [
+        {
+          "_id": "696b81e47291b7650ad0c099",
+          "_name": "1",
+          "_parent": "696b7bc5221a51a278f20ed8",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5448f3a64bdc2d60728b456a",
+				  "5448f3ac4bdc2dce718b4569",
+				  "5448f3a14bdc2d27728b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+		{
+          "_id": "696b8cdb0673607b9b45cb37",
+          "_name": "2",
+          "_parent": "696b7bc5221a51a278f20ed8",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5448f3a64bdc2d60728b456a",
+				  "5448f3ac4bdc2dce718b4569",
+				  "5448f3a14bdc2d27728b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        },
+		{
+          "_id": "696b8d07bb817bc8d2c65d03",
+          "_name": "3",
+          "_parent": "696b7bc5221a51a278f20ed8",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5448f3a64bdc2d60728b456a",
+				  "5448f3ac4bdc2dce718b4569",
+				  "5448f3a14bdc2d27728b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+			
+      ],
+      "Prefab": {
+        "path": "assets/content/items/equipment/armband/item_equipment_armband_usec.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Armband (USEC) with container slots | Mk.2",
+        "shortName": "USEC",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 226545,
+    "handbookPriceRoubles": 45687,
+    "addtoBots": true,
+    "addtoInventorySlots": [
+      "Armband"
+    ],
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_CIVILIAN_BODY"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_DRAWER"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_JACKET"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_JACKET_2X2_2"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 504,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

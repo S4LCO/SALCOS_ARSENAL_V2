@@ -1,0 +1,62 @@
+{
+  "698b3e5e7c28ca2037627aa6": {
+    "itemTplToClone": "5648ac824bdc2ded0b8b457d",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "Accuracy": 0,
+	  "BackgroundColor": "red",
+	  "CanRequireOnRagfair": false,
+	  "CanSellOnRagfair": true,
+	  "CoolFactor": 0,
+	  "ConflictingItems": [],
+	  "Ergonomics": 3.5,
+	  "HeatFactor": 0,
+	  "LootExperience": 10,
+	  "RarityPvE": "Superrare",
+	  "Recoil": 0,
+	  "Weight": 0.017
+    },
+    "locales": {
+      "en": {
+        "name": "AK Zenit RP-1 charging handle | Mk.2",
+        "shortName": "RP-1",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 18746,
+    "handbookPriceRoubles": 8246,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [ 
+	  "mod_charge"
+	],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 411
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 411
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 411
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 411
+      },
+	  {
+		"containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+		"probability": 411
+	  },
+	  {
+		"containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+		"probability": 411
+	  }
+    ]
+  }
+}

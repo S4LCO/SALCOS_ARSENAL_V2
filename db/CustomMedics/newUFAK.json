@@ -1,0 +1,100 @@
+{
+  "6915e681e8b8b510a195ab7d": {
+    "itemTplToClone": "60098ad7c2240c0fe85c570a",
+    "parentId": "5448f39d4bdc2d0a728b4568",
+    "handbookParentId": "5b47574386f77428ca22b338",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "MaxHpResource": 900,
+      "RarityPvE": "Rare",
+      "hpResourceRate": 170,
+      "medEffectType": "duringUse",
+      "medUseTime": 3,
+      "effects_damage": {
+        "Contusion": {
+          "cost": 0,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        },
+        "Fracture": {
+          "cost": 80,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        },
+        "HeavyBleeding": {
+          "cost": 120,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        },
+        "LightBleeding": {
+          "cost": 30,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        },
+        "RadExposure": {
+          "cost": 0,
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        }
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "UFAK tactical individual first aid kit",
+        "shortName": "UFAK",
+        "description": "UFAK (Ultimate First Aid Kit). A more advanced version of the AFAK and IFAK individual first aid kit."
+      }
+    },
+    "fleaPriceRoubles": 164125,
+    "handbookPriceRoubles": 35042,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoSpecialSlots": true,
+    "staticLootContainers": [
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "694b147bb3585bd7e16cd3ee": {
+    "itemTplToClone": "5df8a42886f77412640e2e75",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+	  "Prefab": {
+      "path": "assets/content/items/equipment/rig_triton/item_equipment_rig_triton.bundle",
+      "rcid": ""
+     }
+    },
+
+    "locales": {
+      "en": {
+        "name": "Dynaforce Triton MPPV Multi-Purpose Patrol Vest (Black)",
+        "shortName": "Triton",
+        "description": ""
+      }
+    },
+
+    "fleaPriceRoubles": 102544,
+    "handbookPriceRoubles": 93125,
+    "addtoBots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+	"staticLootContainers": [
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

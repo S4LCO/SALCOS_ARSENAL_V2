@@ -1,0 +1,67 @@
+{
+  "6915e22280a3b8eb5ddef6ea": {
+    "itemTplToClone": "5ed51652f6c34d2cc26336a1",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "medUseTime": 3,
+      "MaxHpResource": 3,
+      "RarityPvE": "Superrare",
+	  "StimulatorBuffs": "6915e22280a3b8eb5ddef6ea"
+    },
+    "locales": {
+      "en": {
+        "name": "M.U.L.E. stimulant injector | Mk.2",
+        "shortName": "MULE",
+        "description": "A powerful stimulant that significantly increases carrying capacity and reduces movement penalties. Extended use causes severe strain on the body."
+      }
+    },
+    "fleaPriceRoubles": 314584,
+    "handbookPriceRoubles": 72555,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 316,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

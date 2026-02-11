@@ -1,0 +1,79 @@
+{
+  "693eaa5b4015878f9ce091fc": {
+    "itemTplToClone": "59c1383d86f774290a37e0ca",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "Ergonomics": -7,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CheckTimeModifier": 8,
+      "LoadUnloadModifier": 10,
+      "MalfunctionChance": 0.023,
+      "RarityPvE": "Rare",
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "69848f125a600658fbd4d091",
+          "_parent": "693eaa5b4015878f9ce091fc",
+          "_max_count": 60,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899",
+                  "697270610a67da4c9fb12a07"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 .300 BLK only Magpul PMAG D-60 STANAG 60-round magazine - #V2",
+        "shortName": "D60 V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 79842,
+    "handbookPriceRoubles": 25455,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 456
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 456
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 456
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 456
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 456
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "697b58af4b04fac5b15da6fb": {
+    "itemTplToClone": "591094e086f7747caa7bb2ef",
+    "parentId": "616eb7aea207f41933308f46",
+    "handbookParentId": "5b47574386f77428ca22b345",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+	  "ConflictingItems": [],
+	  "MaxRepairResource": 5000,
+	  "RepairQuality": 0.5,
+	  "Weight": 25
+    },
+    "locales": {
+      "en": {
+        "name": "Body armor repair kit | Mk.2",
+        "shortName": "Armor repair kit",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 5000000,
+    "handbookPriceRoubles": 600000,
+    "addtoBots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+	"staticLootContainers": [
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

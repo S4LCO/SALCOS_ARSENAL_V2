@@ -1,0 +1,78 @@
+{
+  "69892363fafadaf51b5e6a95": {
+    "itemTplToClone": "544fb3f34bdc2d03748b456a",
+    "parentId": "5448f3a14bdc2d27728b4569",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+	  "Prefab": {
+        "path": "assets/content/weapons/usable_items/item_syringe/item_simulator_pnb_loot.bundle",
+        "rcid": ""
+      },
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "medUseTime": 2,
+      "MaxHpResource": 3,
+      "RarityPvE": "Common",
+	  "effects_health": {
+        "Energy": {
+          "value": 0
+        },
+        "Hydration": {
+          "value": 0
+        }
+      },
+	  "StimulatorBuffs": "69892363fafadaf51b5e6a95"
+    },
+    "locales": {
+      "en": {
+        "name": "D.I.N.N.E.R-41 stimulant injector",
+        "shortName": "D41",
+        "description": "D.I.N.N.E.R-41 (Digestive Intake Neuro-Nutrient Enhancement Regulator) is a specialized stimulant designed to rapidly restore hydration and nutrition levels by accelerating metabolic uptake and gastrointestinal efficiency. Who the hell comes up with names like this in TerraGroup labs? Isn’t that some old show that always runs on New Year’s Eve? Anyways, it tastes like Pommes and Schnitzel."
+      }
+    },
+    "fleaPriceRoubles": 45500,
+    "handbookPriceRoubles": 25000,
+    "addtoBots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 412,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "696ab3ee66eb2bd660cddaa9": {
+    "itemTplToClone": "666b11055a706400b717cfa5",
+    "parentId": "6672e40ebb23210ae87d39eb",
+    "handbookParentId": "5b47574386f77428ca22b345",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true
+    },
+
+    "locales": {
+      "en": {
+        "name": "Tripwire installation kit | Mk.2",
+        "shortName": "Tripwire",
+        "description": ""
+      }
+    },
+
+    "fleaPriceRoubles": 98544,
+    "handbookPriceRoubles": 26588,
+    "addtoBots": true,
+	"addtoSpecialSlots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+	"staticLootContainers": [
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 614,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

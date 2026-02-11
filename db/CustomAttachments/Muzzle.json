@@ -1,0 +1,83 @@
+{
+  "6989e8a997317bab7cb643a3": {
+    "itemTplToClone": "5a34fd2bc4a282329a73b4c5",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": 0.5,
+	  "BackgroundColor": "red",
+	  "CanRequireOnRagfair": false,
+	  "CanSellOnRagfair": true,
+	  "CoolFactor": 1,
+	  "ConflictingItems": [],
+	  "Ergonomics": -1.5,
+	  "HeatFactor": 1.08,
+	  "LootExperience": 22,
+	  "RarityPvE": "Rare",
+	  "Recoil": -6,
+	  "Weight": 0.053,
+	  "Velocity": 0,
+	  "Slots": [
+      {
+        "_name": "mod_muzzle",
+        "_id": "6989e99c879782e807a2f4b9",
+        "_parent": "6989e8a997317bab7cb643a3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+				"6989ebdffcb2478e00ffcd6b"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+	 ]
+    },
+    "locales": {
+      "en": {
+        "name": "AAC Blackout 35T 762x flash hider",
+        "shortName": "35T 762",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 65871,
+    "handbookPriceRoubles": 9874,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 419
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 419
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 419
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 419
+      },
+	  {
+		"containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+		"probability": 419
+	  },
+	  {
+		"containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+		"probability": 419
+      }
+    ]
+  }
+}

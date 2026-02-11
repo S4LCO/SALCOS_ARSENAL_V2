@@ -1,0 +1,65 @@
+{
+  "6989ebdffcb2478e00ffcd6b": {
+    "itemTplToClone": "5e208b9842457a4a7a33d074",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Accuracy": 1,
+	  "BackgroundColor": "red",
+	  "CanRequireOnRagfair": false,
+	  "CanSellOnRagfair": true,
+	  "CoolFactor": 1,
+	  "ConflictingItems": [],
+	  "Ergonomics": -18,
+	  "HeatFactor": 1.05,
+	  "LootExperience": 35,
+	  "Loudness": -67,
+	  "RarityPvE": "Rare",
+	  "Recoil": -10,
+	  "Weight": 0.386,
+	  "Velocity": 0.5
+    },
+    "locales": {
+      "en": {
+        "name": "AK Hexagon DTKP MK.2 7.62x39 sound suppressor",
+        "shortName": "DTKP",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 102369,
+    "handbookPriceRoubles": 48413,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 387
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 387
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 387
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 387
+      },
+	  {
+		"containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+		"probability": 387
+	  },
+	  {
+		"containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+		"probability": 387
+      }
+    ]
+  }
+}

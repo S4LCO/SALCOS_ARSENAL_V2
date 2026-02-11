@@ -1,0 +1,78 @@
+{
+  "6913748029e660a892f84193": {
+    "itemTplToClone": "5c0e530286f7747fa1419862",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "medUseTime": 3,
+      "MaxHpResource": 3,
+      "RarityPvE": "Superrare",
+	  "StimulatorBuffs": "6913748029e660a892f84193",
+      "effects_damage": {
+        "Pain": {
+          "delay": 1,
+          "duration": 420,
+          "fadeOut": 5
+        },
+        "Contusion": {
+          "delay": 0,
+          "duration": 420,
+          "fadeOut": 0
+        }
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Propital regenerative stimulant injector | Mk.2",
+        "shortName": "Propital",
+        "description": "An advanced Propital formulation offering faster and longer-lasting health regeneration while suppressing pain."
+      }
+    },
+    "fleaPriceRoubles": 265415,
+    "handbookPriceRoubles": 72555,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 368,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

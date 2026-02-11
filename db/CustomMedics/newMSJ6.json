@@ -1,0 +1,71 @@
+{
+  "6984a62ad96705ba334329bb": {
+    "itemTplToClone": "5c0e531d86f7747fa23f4d42",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+	  "Prefab": {
+      "path": "assets/content/weapons/usable_items/item_syringe/item_stimulator_mule_loot.bundle",
+      "rcid": ""
+    },
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "medUseTime": 2,
+      "MaxHpResource": 3,
+      "RarityPvE": "Superrare",
+	  "StimulatorBuffs": "6984a62ad96705ba334329bb",
+      "effects_damage": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSJ6 TGLabs carry and escape stimulant injector",
+        "shortName": "MSJ6",
+        "description": "A cocktail between SJ6 and M.U.L.E. Enhances stamina and weight tolerance. Side effects include hand tremors, health degeneration and severe disorientation after prolonged use."
+      }
+    },
+    "fleaPriceRoubles": 456874,
+    "handbookPriceRoubles": 65899,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 312,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

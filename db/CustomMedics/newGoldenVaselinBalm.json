@@ -1,0 +1,96 @@
+{
+  "69319edad4b5c15b68c63e4f": {
+    "itemTplToClone": "5755383e24597772cb798966",
+    "parentId": "5448f3a14bdc2d27728b4569",
+    "handbookParentId": "5b47574386f77428ca22b339",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "MaxHpResource": 10,
+      "RarityPvE": "Rare",
+      "medUseTime": 6,
+      "effects_damage": {
+		"LightBleeding": {
+          "delay": 0,
+          "duration": 60,
+          "fadeOut": 0
+        },
+        "Contusion": {
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        },
+        "Pain": {
+          "delay": 0,
+          "duration": 540,
+          "fadeOut": 1
+        },
+        "RadExposure": {
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0
+        }
+      },
+      "effects_health": {
+        "Energy": {
+          "value": -15
+        }
+      },
+      "hpResourceRate": 0,
+      "medEffectType": "duringUse"
+    },
+    "locales": {
+      "en": {
+        "name": "Golden Vaseline Balm",
+        "shortName": "GoldenBalm",
+        "description": "Golden Vaseline Balsam is an almost secret mixture of German ingredients such as potatoes and sauerkraut. No one knows what else it contains, but it has an impressive effect. Developed by ODIN and Sanitar."
+      }
+    },
+    "fleaPriceRoubles": 78988,
+    "handbookPriceRoubles": 45888,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoSpecialSlots": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 555,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

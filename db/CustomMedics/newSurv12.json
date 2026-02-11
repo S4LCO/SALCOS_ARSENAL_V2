@@ -1,0 +1,85 @@
+{
+  "69161d7c4f556aa60c98aa13": {
+    "itemTplToClone": "5d02797c86f774203f38e30a",
+    "parentId": "5448f3ac4bdc2dce718b4569",
+    "handbookParentId": "5b47574386f77428ca22b339",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "RarityPvE": "Superrare",
+      "MaxHpResource": 12,
+      "medUseTime": 16,
+      "Height": 1,
+      "Width": 2,
+      "effects_damage": {
+        "Fracture": {
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 0,
+          "healthPenaltyMin": 0
+        },
+        "DestroyedPart": {
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 69,
+          "healthPenaltyMin": 55
+        }
+      },
+      "effects_health": []
+    },
+    "locales": {
+      "en": {
+        "name": "Surv12 field surgical kit | Mk.2",
+        "shortName": "Surv12",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 217874,
+    "handbookPriceRoubles": 72000,
+    "addtoBots": true,
+    "addtoSpecialSlots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 450,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

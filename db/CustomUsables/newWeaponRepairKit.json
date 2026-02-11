@@ -1,0 +1,50 @@
+{
+  "697b5a1113cf97d95bae6ffb": {
+    "itemTplToClone": "5910968f86f77425cf569c32",
+    "parentId": "616eb7aea207f41933308f46",
+    "handbookParentId": "5b47574386f77428ca22b345",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+	  "ConflictingItems": [],
+	  "MaxRepairResource": 3500,
+	  "RepairQuality": 2,
+	  "Weight": 10
+    },
+    "locales": {
+      "en": {
+        "name": "Weapon repair kit | Mk.2",
+        "shortName": "Weapon repair kit",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 980000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+	"staticLootContainers": [
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

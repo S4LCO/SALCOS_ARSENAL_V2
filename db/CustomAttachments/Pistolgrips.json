@@ -1,0 +1,60 @@
+{
+  "698943d63fb0b7210e021ba0": {
+    "itemTplToClone": "5649ae4a4bdc2d1b2b8b4588",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Accuracy": 0.1,
+	  "BackgroundColor": "red",
+	  "CanRequireOnRagfair": false,
+	  "CanSellOnRagfair": true,
+	  "CoolFactor": 0,
+	  "Ergonomics": 14,
+	  "LootExperience": 12,
+	  "RarityPvE": "Superrare",
+	  "Recoil": -0.1,
+	  "Weight": 0.210
+    },
+    "locales": {
+      "en": {
+        "name": "AK Zenit RK-3 pistol grip | Mk.2",
+        "shortName": "RK-3",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 55655,
+    "handbookPriceRoubles": 8120,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 215
+      },
+	  {
+		"containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+		"probability": 215
+	  },
+	  {
+		"containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+		"probability": 215
+	  }
+    ]
+  }
+}

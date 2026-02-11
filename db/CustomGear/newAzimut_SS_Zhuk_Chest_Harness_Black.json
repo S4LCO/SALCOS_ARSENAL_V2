@@ -1,0 +1,102 @@
+{
+  "69885c4499f16197ee337e1f": {
+    "itemTplToClone": "618cfae774bb2d036a049e7c",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+	  "Height": 3,
+	  "Width": 4,
+	  "Prefab": {
+        "path": "assets/content/items/equipment/rig_azimut/item_equipment_rig_azimut_black.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_name": "1",
+          "_id": "698862872bceb325e14a923d",
+          "_parent": "69885c4499f16197ee337e1f",
+          "_props": {
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "cellsH": 6,
+            "cellsV": 4,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }        
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Azimut SS Zhuk chest harness (Black) | Mk.2",
+        "shortName": "Azimut Zhuk",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 102544,
+    "handbookPriceRoubles": 93125,
+    "addtoBots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 900,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

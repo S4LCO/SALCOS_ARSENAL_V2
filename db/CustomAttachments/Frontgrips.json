@@ -1,0 +1,122 @@
+{
+  "6989c8b39c07cbce1665aff7": {
+    "itemTplToClone": "5c791e872e2216001219c40a",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+	  "BackgroundColor": "red",
+	  "CanRequireOnRagfair": false,
+	  "CanSellOnRagfair": true,
+	  "CoolFactor": 1.03,
+	  "ConflictingItems": [],
+	  "Ergonomics": -7,
+	  "HeatFactor": 0,
+	  "LootExperience": 15,
+	  "RarityPvE": "Superrare",
+	  "Recoil": -4,
+	  "Weight": 0.210
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Cobra Tactical foregrip | Mk.2",
+        "shortName": "SI Cobra",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 89879,
+    "handbookPriceRoubles": 17845,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 215
+      },
+	  {
+		"containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+		"probability": 215
+	  },
+	  {
+		"containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+		"probability": 215
+      }
+    ]
+  },
+  "6989c8b8a262ee5d40ae36e8": {
+    "itemTplToClone": "655dccfdbdcc6b5df71382b6",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+	  "BackgroundColor": "red",
+	  "CanRequireOnRagfair": false,
+	  "CanSellOnRagfair": true,
+	  "CoolFactor": 1.03,
+	  "ConflictingItems": [],
+	  "Ergonomics": -7,
+	  "HeatFactor": 0,
+	  "LootExperience": 15,
+	  "RarityPvE": "Superrare",
+	  "Recoil": -4,
+	  "Weight": 0.210
+    },
+    "locales": {
+      "en": {
+        "name": "Strike Industries Cobra Tactical foregrip (FDE) | Mk.2",
+        "shortName": "SI Cobra",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 81541,
+    "handbookPriceRoubles": 17845,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 215
+      },
+	  {
+		"containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+		"probability": 215
+	  },
+	  {
+		"containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+		"probability": 215
+      }
+    ]
+  }
+}

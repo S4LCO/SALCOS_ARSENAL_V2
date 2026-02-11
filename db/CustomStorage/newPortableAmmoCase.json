@@ -1,0 +1,105 @@
+{
+  "69838d597a37b4617140cfc8": {
+    "itemTplToClone": "5d235bb686f77443f4331278",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Height": 1,
+      "Width": 1,
+      "Weight": 0.5,
+	  "RarityPvE": "Superrare",
+      "Grids": [
+        {
+          "_id": "69838d5d61fb6ff7af459f95",
+          "_name": "1",
+          "_parent": "696b7bc5221a51a278f20ed8",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5485a8684bdc2da71d8b4567",
+				  "543be5cb4bdc2deb348b4568"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }		
+      ],
+      "Prefab": {
+        "path": "assets/content/items/containers/pistol_case/item_container_pistol_case.bundle",
+        "rcid": ""
+    }
+    },
+    "locales": {
+      "en": {
+        "name": "Portable Ammo Case",
+        "shortName": "PAC",
+        "description": "A compact, lightweight ammo case designed for secure transport of loose cartridges. Fits easily into secure containers and keeps ammunition organized during raids."
+      }
+    },
+    "fleaPriceRoubles": 262567,
+    "handbookPriceRoubles": 78987,
+    "addtoBots": true,
+    "addtoInventorySlots": [],
+    "addtoTraders": false,
+    "addtoStaticLootContainers": false,
+	"addtoSecureFilters": true,
+    "staticLootContainers": [
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_CIVILIAN_BODY"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DRAWER"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_JACKET"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_JACKET_2X2_2"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

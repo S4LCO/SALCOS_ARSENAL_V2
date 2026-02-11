@@ -1,0 +1,70 @@
+{
+  "692a24decd52b155c0419cab": {
+    "itemTplToClone": "5d1b36a186f7742523398433",
+    "parentId": "5d650c3e815116009f6201d2",
+    "handbookParentId": "5b47574386f77428ca22b2f2",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "RarityPvE": "Rare",
+      "MaxResource": 300,
+      "Resource": 300
+    },
+    "locales": {
+      "en": {
+        "name": "Super Fuel",
+        "shortName": "SuFu",
+        "description": "This gasoline mixture consists of a special and secret blend. And it smells better than regular gasoline. Developed by ODIN."
+      }
+    },
+    "fleaPriceRoubles": 350000,
+    "handbookPriceRoubles": 292544,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoGeneratorAsFuel": true,
+    "generatorFuelSlotStages": [
+      "1"
+    ],
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_AIRDROP_TECHNICAL_SUPPLY_CRATE_EVENT_1"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE"
+      },
+      {
+        "probability": 560,
+        "containerName": "LOOTCONTAINER_TECHNICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

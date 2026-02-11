@@ -1,0 +1,208 @@
+{
+  "69893a067e7dab6f68dcfa0b": {
+    "itemTplToClone": "59ecc3dd86f7746dc827481c",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 1.5,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 15,
+      "LootExperience": 20,
+      "RarityPvE": "Superrare",
+      "Recoil": -28,
+      "Weight": 0.215
+    },
+    "locales": {
+      "en": {
+        "name": "AK Zenit PT-3 buttstock | Mk.2",
+        "shortName": "PT-3",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 91548,
+    "handbookPriceRoubles": 16630,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+        "probability": 215
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 215
+      }
+    ]
+  },
+  "698a84aeae8e9e1cd63bb6fe": {
+    "itemTplToClone": "5cf50fc5d7f00c056c53f83c",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 4.5,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 2,
+      "Recoil": -1.8,
+      "Velocity": 2,
+      "Weight": 0.11,
+      "Slots": [
+        {
+          "_name": "mod_stock",
+          "_id": "698a84fbe123eb199e22afe9",
+          "_parent": "698a84aeae8e9e1cd63bb6fe",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fc2369685fd526b824a5713",
+                  "606587d11246154cad35d635",
+                  "602e620f9b513876d4338d9a",
+                  "5a9eb32da2750c00171b3f9c",
+                  "5bfe86df0db834001b734685",
+                  "55d4ae6c4bdc2d8b2f8b456e",
+                  "5c87a07c2e2216001219d4a2",
+                  "5bb20e70d4351e0035629f8f",
+                  "5beec8c20db834001d2c465c",
+                  "5fbbaa86f9986c4cff3fe5f6",
+                  "5fce16961f152d4312622bc9",
+                  "5ae30c9a5acfc408fb139a03",
+                  "5d135e83d7ad1a21b83f42d8",
+                  "5d135ecbd7ad1a21c176542e",
+                  "56eabf3bd2720b75698b4569",
+                  "58d2946386f774496974c37e",
+                  "58d2946c86f7744e271174b5",
+                  "58d2947686f774485c6a1ee5",
+                  "58d2947e86f77447aa070d53",
+                  "5d44069ca4b9361ebd26fc37",
+                  "5d4406a8a4b9361e4f6eb8b7",
+                  "5947c73886f7747701588af5",
+                  "628a85ee6b1d481ff772e9d5",
+                  "5c793fde2e221601da358614",
+                  "5b39f8db5acfc40016387a1b",
+                  "6516e91f609aaf354b34b3e2",
+                  "6516e971a3d4c6497930b450",
+                  "6529370c405a5f51dd023db8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AK-74M CAA AKTS AK74 buffer tube | Mk.2",
+        "shortName": "AKTS AK74",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 66877,
+    "handbookPriceRoubles": 2541,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 415
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 415
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 415
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 415
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 415
+      }
+    ],
+    "addtoTraders": false
+  },
+  "698a86c61ce8e933e75191ed": {
+    "itemTplToClone": "628a85ee6b1d481ff772e9d5",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 1.5,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 17,
+      "LootExperience": 22,
+      "RarityPvE": "Superrare",
+      "Recoil": -25,
+      "Weight": 0.0302
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 SB Tactical SBA3 brace | Mk.2",
+        "shortName": "SBA3",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 91548,
+    "handbookPriceRoubles": 12777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 302
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 302
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 302
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 302
+      }
+    ]
+  }
+}
