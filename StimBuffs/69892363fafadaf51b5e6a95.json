@@ -1,0 +1,29 @@
+[
+  {
+    "AbsoluteValue": true,
+	"BuffType": "HydrationRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 60,
+	"SkillName": "",
+	"Value": 1.2
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "EnergyRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 60,
+	"SkillName": "",
+	"Value": 1.2 
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "MaxStamina",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 120,
+	"SkillName": "",
+	"Value": -50
+  }
+]

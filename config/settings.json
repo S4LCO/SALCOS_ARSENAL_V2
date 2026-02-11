@@ -1,0 +1,8 @@
+{
+  "EnableWeaponsCompat": true,
+  "EnableAmmoCompat": true,
+  "EnablePlatesCompat": true,
+  "EnableStimBuffs": true,
+  "Debug": false,
+  "StrictMode": false
+}

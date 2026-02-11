@@ -1,0 +1,13 @@
+{
+  "name": "SALCO'S ARSENAL",
+  "author": "Salco",
+  "version": "2.0.0",
+  "license": "MIT",
+  "sptVersion": "~4.0.3",
+  "main": "SalcosArsenal.dll",
+  "isBundleMod": false,
+  "dependencies": {
+    "com.wtt.commonlib": "~2.0.15",
+    "com.wtt.contentbackport": "~1.0.4"
+  }
+}

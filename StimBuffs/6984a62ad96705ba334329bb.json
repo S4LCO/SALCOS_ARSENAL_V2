@@ -1,0 +1,56 @@
+[
+  {
+    "BuffType": "MaxStamina",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 360,
+    "Value": 50,
+    "AbsoluteValue": true,
+    "SkillName": ""
+  },
+  {
+    "BuffType": "StaminaRate",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 360,
+    "Value": 3,
+    "AbsoluteValue": true,
+    "SkillName": ""
+  },
+  {
+    "BuffType": "WeightLimit",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 360,
+    "Value": 0.7,
+    "AbsoluteValue": false,
+    "SkillName": ""
+  },
+  {
+    "BuffType": "HealthRate",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 360,
+    "Value": -0.1,
+    "AbsoluteValue": true,
+    "SkillName": ""
+  },
+  {
+    "BuffType": "HandsTremor",
+    "Chance": 1,
+    "Delay": 180,
+    "Duration": 180,
+    "Value": 0,
+    "AbsoluteValue": true,
+    "SkillName": ""
+  },
+  {
+    "BuffType": "QuantumTunnelling",
+    "Chance": 1,
+    "Delay": 180,
+    "Duration": 180,
+    "Value": 0,
+    "AbsoluteValue": true,
+    "SkillName": ""
+  }
+]

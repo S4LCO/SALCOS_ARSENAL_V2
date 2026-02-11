@@ -1,0 +1,65 @@
+[
+  {
+    "AbsoluteValue": true,
+	"BuffType": "HealthRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 120,
+	"SkillName": "",
+	"Value": 12
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "EnergyRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 120,
+	"SkillName": "",
+	"Value": 1.5
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 180,
+	"SkillName": "Metabolism",
+	"Value": 40
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 180,
+	"SkillName": "Immunity",
+	"Value": 40
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "EnergyRate",
+	"Chance": 1,
+	"Delay": 60,
+	"Duration": 60,
+	"SkillName": "",
+	"Value": -4
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 60,
+	"Duration": 60,
+	"SkillName": "Endurance",
+	"Value": -7
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 90,
+	"Duration": 90,
+	"SkillName": "Health",
+	"Value": -7
+  }
+]

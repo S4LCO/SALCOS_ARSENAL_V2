@@ -1,0 +1,38 @@
+[
+  {
+    "AbsoluteValue": true,
+	"BuffType": "MaxStamina",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 480,
+	"SkillName": "",
+	"Value": 50
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "StaminaRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 480,
+	"SkillName": "",
+	"Value": 3
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "HandsTremor",
+	"Chance": 1,
+	"Delay": 120,
+	"Duration": 60,
+	"SkillName": "",
+	"Value": 0
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "QuantumTunnelling",
+	"Chance": 1,
+	"Delay": 120,
+	"Duration": 60,
+	"SkillName": "",
+	"Value": 0
+  }
+]

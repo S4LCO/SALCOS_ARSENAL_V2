@@ -1,0 +1,56 @@
+[
+  {
+    "AbsoluteValue": true,
+    "BuffType": "HealthRate",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 420,
+    "SkillName": "",
+    "Value": 2
+  },
+  {
+	"AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 420,
+	"SkillName": "Metabolism",
+	"Value": 30
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 420,
+	"SkillName": "Health",
+	"Value": 30
+  },
+  {
+	"AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 420,
+	"SkillName": "Vitality",
+	"Value": 30
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "HandsTremor",
+	"Chance": 1,
+	"Delay": 420,
+	"Duration": 60,
+	"SkillName": "",
+    "Value": 0
+  },
+  {
+    "AbsoluteValue": true,
+    "BuffType": "QuantumTunnelling",
+    "Chance": 1,
+    "Delay": 420,
+    "Duration": 60,
+    "SkillName": "",
+    "Value": 0  
+  }
+]

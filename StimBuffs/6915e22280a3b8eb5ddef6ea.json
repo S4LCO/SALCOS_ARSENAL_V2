@@ -1,0 +1,20 @@
+[
+  {
+    "AbsoluteValue": false,
+    "BuffType": "WeightLimit",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 900,
+    "SkillName": "",
+    "Value": 0.8
+  },
+  {
+    "AbsoluteValue": true,
+    "BuffType": "HealthRate",
+    "Chance": 1,
+    "Delay": 1,
+    "Duration": 600,
+    "SkillName": "",
+    "Value": 0.50  
+  }
+]

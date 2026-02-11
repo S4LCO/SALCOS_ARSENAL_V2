@@ -1,0 +1,47 @@
+[
+  {
+    "AbsoluteValue": true,
+	"BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 120,
+	"SkillName": "Vitality",
+	"Value": 30
+  },
+  {
+    "AbsoluteValue": true,
+    "BuffType": "SkillRate",
+	"Chance": 1,
+	"Delay": 1,
+	"Duration": 120,
+	"SkillName": "Metabolism",
+	"Value": -6
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "RemoveAllBloodLosses",
+	"Chance": 1,
+	"Delay": 0,
+	"Duration": 120,
+	"SkillName": "",
+	"Value": 0
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "HandsTremor",
+	"Chance": 1,
+	"Delay": 125,
+	"Duration": 60,
+	"SkillName": "",
+	"Value": 0
+  },
+  {
+    "AbsoluteValue": true,
+	"BuffType": "HydrationRate",
+	"Chance": 1,
+	"Delay": 180,
+	"Duration": 30,
+	"SkillName": "",
+	"Value": -1.2
+  }
+]
