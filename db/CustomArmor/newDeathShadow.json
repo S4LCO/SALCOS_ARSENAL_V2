@@ -1,0 +1,60 @@
+{
+  "69482adbf50c250237bc55c3": {
+    "itemTplToClone": "6570aead4d84f81fd002a033",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "armorClass": 5,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 30,
+      "MaxDurability": 30,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "RarityPvE": "Superrare"
+    },
+    "locales": {
+      "en": {
+        "name": "Death Shadow lightweight armored mask | Mk.2",
+        "shortName": "Death Shadow",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 762111,
+    "handbookPriceRoubles": 72544,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 219,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      }
+    ]
+  }
+}

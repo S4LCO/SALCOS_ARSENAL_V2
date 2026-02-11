@@ -1,0 +1,76 @@
+{
+  "6929a52ff37a6a6d03dce9ad": {
+    "itemTplToClone": "5f0596629e22f464da6bbdd9",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ammoAccr": -10,
+      "ammoRec": 20,
+      "ArmorDamage": 60,
+      "BackgroundColor": "red",
+	  "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Damage": 85,
+      "DurabilityBurnModificator": 2.1,
+      "FragmentationChance": 0.01,
+      "FragmentsCount": 0,
+      "HeatFactor": 2.24,
+      "HeavyBleedingDelta": 0.55,
+      "InitialSpeed": 788,
+      "LightBleedingDelta": 0,
+      "MalfFeedChance": 0.089,
+      "MalfMisfireChance": 0.175,
+      "MaxFragmentsCount": 0,
+      "MinFragmentsCount": 0,
+      "MisfireChance": 0.01,
+      "PenetrationChanceObstacle": 0.65,
+      "PenetrationDamageMod": 0.125,
+      "PenetrationPower": 48,
+      "RicochetChance": 0.45,
+      "Tracer": true,
+      "TracerColor": "red",
+	  "Caliber": "Caliber366TKM"
+    },
+    "locales": {
+      "en": {
+        "name": ".366 TKM - Tombstone",
+        "shortName": "TMBSTN",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 1899,
+    "handbookPriceRoubles": 980,
+    "addtoBots": true,
+    "addCaliberToAllCloneLocations": true,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 1466,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 798
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 798
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 798
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 798
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 798
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 798
+      }
+    ]
+  }
+}

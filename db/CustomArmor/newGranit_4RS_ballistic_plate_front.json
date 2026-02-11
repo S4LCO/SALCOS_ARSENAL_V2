@@ -1,0 +1,91 @@
+{
+  "69884fb49f6cca2fe43680fa": {
+    "itemTplToClone": "656f611f94b480b8a500c0db",
+    "parentId": "644120aa86ffbe10ee032b6f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "armorClass": 6,
+	  "ArmorMaterial": "UHMWPE",
+	  "ArmorType": "Light",
+      "BackgroundColor": "red",
+      "BluntThroughput": 0.29,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 65,
+      "MaxDurability": 65,
+	  "MaterialType": "BodyArmor",
+	  "MetascoreGroup": "Defence",
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "RarityPvE": "Superrare",
+      "RepairCost": 720,
+      "speedPenaltyPercent": -1.8,
+      "weaponErgonomicPenalty": -1.7,
+      "Weight": 2.7
+    },
+    "locales": {
+      "en": {
+        "name": "Granit 4 ballistic plate (Front) | Mk.2",
+        "shortName": "Granit 4 Front",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 850000,
+    "handbookPriceRoubles": 53531,
+    "addtoBots": true,
+    "addtoModSlots": true,
+	"modSlot": [
+      "Front_plate",
+      "Back_plate",
+      "front_plate",
+      "back_plate"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "6929a5b82f2bc9029cb91550": {
+    "itemTplToClone": "601aa3d2b2bcb34913271e6d",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ammoAccr": -4,
+	  "ammoRec": 8,
+	  "ArmorDamage": 70,
+	  "BackgroundColor": "red",
+	  "Caliber": "Caliber762x39",
+	  "CanRequireOnRagfair": true,
+	  "CanSellOnRagfair": true,
+	  "Damage": 53,
+	  "DurabilityBurnModificator": 1.65,
+	  "ExaminedByDefault": true,
+	  "FragmentationChance": 0.01,
+	  "FragmentsCount": 0,
+	  "HeatFactor": 1.85,
+	  "HeavyBleedingDelta": 0.25,
+	  "InitialSpeed": 810,
+	  "LightBleedingDelta": 0.1,
+	  "MalfFeedChance": 0.09,
+	  "MalfMisfireChance": 0.16,
+	  "MaxFragmentsCount": 2,
+	  "MinFragmentsCount": 1,
+	  "MisfireChance": 0.01,
+	  "PenetrationChanceObstacle": 0.75,
+	  "PenetrationDamageMod": 0.18,
+	  "PenetrationPower": 54,
+	  "RicochetChance": 0.3,
+	  "Tracer": true,
+	  "TracerColor": "green"
+    },
+    "locales": {
+      "en": {
+        "name": "7.62x39mm BP-M",
+        "shortName": "BP-M",
+        "description": "A modernized 7.62×39mm armor-piercing cartridge featuring a hardened penetrator and optimized propellant load. BP-M2 offers significantly improved armor damage and penetration compared to standard BP, at the cost of increased recoil, heat generation, and weapon wear."
+      }
+    },
+    "fleaPriceRoubles": 2598,
+    "handbookPriceRoubles": 1400,
+    "addtoBots": true,
+    "addCaliberToAllCloneLocations": true,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 1001,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 743
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 743
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 743
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 743
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 743
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 743
+      }
+    ]
+  }
+}

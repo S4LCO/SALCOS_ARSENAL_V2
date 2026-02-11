@@ -1,0 +1,79 @@
+{
+  "6987842963c591df077ab606": {
+    "itemTplToClone": "6575d5b316c2762fba005824",
+    "parentId": "644120aa86ffbe10ee032b6f",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+	  "ArmorMaterial": "UHMWPE",
+	  "armorClass": "5",
+	  "Background": "violet",
+	  "BluntThroughput": 0.32,
+	  "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 25,
+      "MaxDurability": 25,
+	  "Height": 1,
+	  "Widht": 1,
+      "Prefab": {
+        "path": "assets/content/items/equipment/plate_granit_br5_side/item_equipment_plate_granit_br5_side_new.bundle",
+        "rcid": ""
+      }
+    },
+
+    "locales": {
+      "en": {
+        "name": "Shoulder Left Lv.5",
+        "shortName": "S.left5",
+        "description": ""
+      }
+    },
+
+    "fleaPriceRoubles": 58000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 284,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

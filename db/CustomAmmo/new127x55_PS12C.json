@@ -1,0 +1,77 @@
+{
+  "692ab99b0b5723ed36f11516": {
+    "itemTplToClone": "5cadf6eeae921500134b2799",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ammoAccr": -4,
+	  "ammoRec": 22,
+	  "ArmorDamage": 62,
+	  "BackgroundColor": "red",
+	  "Caliber": "Caliber127x55",
+	  "CanRequireOnRagfair": true,
+	  "CanSellOnRagfair": true,
+	  "Damage": 108,
+	  "DurabilityBurnModificator": 2.6,
+	  "ExaminedByDefault": true,
+	  "FragmentationChance": 0.04,
+	  "FragmentsCount": 0,
+	  "HeatFactor": 1.65,
+	  "HeavyBleedingDelta": 0.2,
+	  "InitialSpeed": 600,
+	  "LightBleedingDelta": 0.0,
+	  "MalfFeedChance": 0.012,
+	  "MalfMisfireChance": 0.15,
+	  "MaxFragmentsCount": 5,
+	  "MinFragmentsCount": 2,
+	  "MisfireChance": 0.012,
+	  "PenetrationChanceObstacle": 0.22,
+	  "PenetrationDamageMod": 0.17,
+	  "PenetrationPower": 49,
+	  "RicochetChance": 0.1,
+	  "Tracer": false,
+	  "TracerColor": "red"
+    },
+    "locales": {
+      "en": {
+        "name": "12.7x55mm PS12C",
+        "shortName": "PS12C",
+        "description": "High-pressure 12.7x55mm cartridge designed for maximum stopping power against armored targets, at the cost of extreme recoil and accelerated weapon wear."
+      }
+    },
+    "fleaPriceRoubles": 1950,
+    "handbookPriceRoubles": 1450,
+    "addtoBots": true,
+    "addCaliberToAllCloneLocations": true,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 1344,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 615
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 615
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 615
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 615
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 615
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 615
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "6987843518ed3f21a5787831": {
+    "itemTplToClone": "6575d57a16c2762fba00581c",
+    "parentId": "644120aa86ffbe10ee032b6f",
+    "handbookParentId": "6564b96a189fe36f356d177c",
+    "overrideProperties": {
+	  "ArmorMaterial": "UHMWPE",
+	  "armorClass": "6",
+	  "Background": "violet",
+	  "BluntThroughput": 0.32,
+	  "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 35,
+      "MaxDurability": 35,
+	  "Height": 1,
+	  "Widht": 1,
+      "Prefab": {
+        "path": "assets/content/items/equipment/plate_granit_br5_side/item_equipment_plate_granit_br5_side_new.bundle",
+        "rcid": ""
+      }
+    },
+
+    "locales": {
+      "en": {
+        "name": "Soft Armor Left Lv.6",
+        "shortName": "Left6",
+        "description": ""
+      }
+    },
+
+    "fleaPriceRoubles": 95000,
+    "handbookPriceRoubles": 2500,
+    "addtoBots": true,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 189,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

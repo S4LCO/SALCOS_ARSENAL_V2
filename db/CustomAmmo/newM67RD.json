@@ -1,0 +1,63 @@
+{
+  "692c3c289e3db2af6116c804": {
+    "itemTplToClone": "58d3db5386f77426186285a0",
+    "parentId": "543be6564bdc2df4348b4568",
+    "handbookParentId": "5b5f7a2386f774093f2ed3c4",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ExaminedByDefault": true,
+      "ExplDelay": 1.5,
+      "explDelay": 1.5
+    },
+    "locales": {
+      "en": {
+        "name": "M67 hand grenade (Reduced delay)",
+        "shortName": "M67 RD",
+        "description": ""
+      }
+    },
+	"masteries": true,
+    "fleaPriceRoubles": 66498,
+    "handbookPriceRoubles": 1022,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 658
+      },
+	  {
+        "containerName": "LOOTCONTAINER_GRENADE_BOX",
+        "probability": 658
+      },
+	  {
+        "containerName": "LOOTCONTAINER_GRENADE_BOX_3X2_2",
+        "probability": 658
+      }	  
+    ]
+  }
+}

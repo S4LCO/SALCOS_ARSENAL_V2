@@ -1,0 +1,91 @@
+{
+  "69488a112c24f66f117e73bd": {
+    "itemTplToClone": "657b28d25f444d6dff0c6c77",
+    "parentId": "644120aa86ffbe10ee032b6f",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+    "overrideProperties": {
+      "armorClass": 6,
+	  "ArmorMaterial": "UHMWPE",
+	  "ArmorType": "Light",
+      "BackgroundColor": "red",
+      "BluntThroughput": 0.29,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 40,
+      "MaxDurability": 40,
+	  "MaterialType": "BodyArmor",
+	  "MetascoreGroup": "Defence",
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "RarityPvE": "Superrare",
+      "RepairCost": 622,
+      "speedPenaltyPercent": -1.4,
+      "weaponErgonomicPenalty": 0,
+      "Weight": 2.1
+    },
+    "locales": {
+      "en": {
+        "name": "Korund-VM-K ballistic plate (Back) | Mk.2",
+        "shortName": "Korund back",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 700000,
+    "handbookPriceRoubles": 42641,
+    "addtoBots": true,
+    "addtoModSlots": true,
+	"modSlot": [
+      "Front_plate",
+      "Back_plate",
+      "front_plate",
+      "back_plate"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "6946eb7e67ba8110a6ddfd5e": {
+    "itemTplToClone": "544a5caa4bdc2d1a388b4568",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/equipment/rig_cryeavs/item_equipment_rig_cryeavs.bundle",
+        "rcid": ""
+      },
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "Light",
+      "BackgroundColor": "red",
+      "Height": 4,
+      "Width": 3,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "mousePenalty": -0.5,
+      "speedPenaltyPercent": -3,
+      "weaponErgonomicPenalty": -1,
+      "Slots": [
+        {
+          "_name": "Front_plate",
+          "_id": "698687ccddc2410019459986",
+          "_parent": "6946eb7e67ba8110a6ddfd5e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fa76500d62bcd2e024080",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fb21fa0dce000a2020f7c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656fac30c6baea13cd07e10c",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "Plate": "656f9fa0498d1b7e3e071d98",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_chest"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Back_plate",
+          "_id": "698687d0a59f8c5c61168c27",
+          "_parent": "6946eb7e67ba8110a6ddfd5e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "656f9d5900d62bcd2e02407c",
+                  "656fa8d700d62bcd2e024084",
+                  "656fa99800d62bcd2e024088",
+                  "656fae5f7c2d57afe200c0d7",
+                  "656faf0ca0dce000a2020f77",
+                  "656fa0fb498d1b7e3e071d9c",
+                  "656fafe3498d1b7e3e071da4",
+                  "656fa76500d62bcd2e024080",
+                  "656fad8c498d1b7e3e071da0",
+                  "656fa25e94b480b8a500c0e0",
+                  "656fa61e94b480b8a500c0e8",
+                  "656fac30c6baea13cd07e10c",
+                  "656fb0bd7c2d57afe200c0dc",
+                  "656fb21fa0dce000a2020f7c",
+                  "656f9fa0498d1b7e3e071d98",
+                  "656fa53d94b480b8a500c0e4",
+                  "655746010177119f4a097ff7",
+                  "64afdcb83efdfea28601d041"
+                ],
+                "Plate": "656f9fa0498d1b7e3e071d98",
+                "armorColliders": [],
+                "armorPlateColliders": [
+                  "Plate_Granit_SAPI_back"
+                ],
+                "bluntDamageReduceFromSoftArmor": true,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_front",
+          "_id": "698687d4a447a6795d2448e8",
+          "_parent": "6946eb7e67ba8110a6ddfd5e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69873182a1a6f532f82be4a3",
+				  "698780e0eac79011019df80e",
+				  "698784165bad3cbee187efce",
+				  "6987842fbd6347318cce1366"
+                ],
+                "Plate": "69873182a1a6f532f82be4a3",
+                "armorColliders": [
+                  "RibcageUp",
+                  "RibcageLow"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Soft_armor_back",
+          "_id": "698687d7c52c4a6d6ea65e99",
+          "_parent": "6946eb7e67ba8110a6ddfd5e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69872e38ce98f983f7fede7b",
+				  "698780e3f476afbaf9b34ad3",
+				  "69878419dd32d5c1ecad5ea6",
+				  "69878432a107db12905aacb3"
+                ],
+                "Plate": "69872e38ce98f983f7fede7b",
+                "armorColliders": [
+                  "SpineTop",
+                  "SpineDown"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Groin",
+          "_id": "698687db0089c4bb68724faa",
+          "_parent": "6946eb7e67ba8110a6ddfd5e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "698777d4ea9246164767f0bc",
+				  "698780f01af9203a521466ed",
+				  "69878426762df1db6351d622",
+				  "6987843f4af562453ea6e616"
+                ],
+                "Plate": "698777d4ea9246164767f0bc",
+                "armorColliders": [
+                  "Pelvis"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AVS plate carrier (Ranger Green) | Mk.2",
+        "shortName": "AVS",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 342568,
+    "handbookPriceRoubles": 155265,
+    "addtoBots": true,
+    "addtoStaticLootContainers": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6986840dd123a52e68bc1323",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "AVS plate carrier (Ranger Green) Default",
+        "_parent": "69867ea57092782f315da03b",
+        "_items": [
+          {
+            "_id": "69867ea57092782f315da03b",
+            "_tpl": "6946eb7e67ba8110a6ddfd5e"
+          },
+          {
+            "_id": "69867f2defe1967ab00620ca",
+            "_tpl": "69873182a1a6f532f82be4a3",
+            "parentId": "69867ea57092782f315da03b",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "69867f309dbfe448e4629f81",
+            "_tpl": "69872e38ce98f983f7fede7b",
+            "parentId": "69867ea57092782f315da03b",
+            "slotId": "Soft_armor_back"
+          },
+		  {
+            "_id": "69868e2846be117d7c453d3b",
+            "_tpl": "698777d4ea9246164767f0bc",
+            "parentId": "69867ea57092782f315da03b",
+            "slotId": "Groin"
+          },		  
+          {
+            "_id": "69867f39e537305bc050eafb",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "69867ea57092782f315da03b",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "69867f3c7b22a1b46e528022",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "69867ea57092782f315da03b",
+            "slotId": "Back_plate"
+          }
+        ],
+        "_encyclopedia": "6946eb7e67ba8110a6ddfd5e"
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "probability": 216,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 216,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 216,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 216,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 216,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 216,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "69583e99d726962124a7493c": {
+    "itemTplToClone": "6551fec55d0cf82e51014288",
+    "parentId": "65649eb40bf0ed77b8044453",
+    "handbookParentId": "5b5f704686f77447ec5d76d7",
+
+    "overrideProperties": {
+	  "ArmorMaterial": "UHMWPE",
+      "armorClass": "4",
+      "Durability": 30,
+      "MaxDurability": 30,
+      "BluntThroughput": 0.1548
+    },
+
+    "locales": {
+      "en": {
+        "name": "UHMWPE insert",
+        "shortName": "",
+        "description": ""
+      }
+    },
+
+    "fleaPriceRoubles": 1,
+    "handbookPriceRoubles": 1,
+    "addtoBots": false,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": false
+  }
+}

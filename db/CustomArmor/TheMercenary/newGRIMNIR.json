@@ -1,0 +1,172 @@
+{
+  "6972953d3d7cc34bad1f850f": {
+    "itemTplToClone": "68bee28f79c8186398098e6f",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "armorClass": 0,
+      "BackgroundColor": "red",
+      "RepairCost": 1254,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "mousePenalty": -2,
+      "weaponErgonomicPenalty": -2,
+      "RarityPvE": "Superrare",
+      "Slots": [        		
+		{
+          "_name": "Helmet_eyes",
+          "_id": "6972993f387b2d5f1c7cb1b6",
+          "_parent": "6972953d3d7cc34bad1f850f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69731c18e74581c4cc4e06be"
+                ],
+                "Plate": "69731c18e74581c4cc4e06be",
+                "armorColliders": [
+                  "Eyes"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },	
+        {
+          "_name": "Helmet_top",
+          "_id": "697295a07607e8b6bba116f2",
+          "_parent": "6972953d3d7cc34bad1f850f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "697296e758e52f17524377bd"
+                ],
+                "Plate": "697296e758e52f17524377bd",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "697295afbbafa4323b8eeea2",
+          "_parent": "6972953d3d7cc34bad1f850f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "697297b7031dc7f81c1fee29"
+                ],
+                "Plate": "697297b7031dc7f81c1fee29",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },		
+		{
+          "_name": "Helmet_jaw",
+          "_id": "697295afbbafa4323b8eeea2",
+          "_parent": "6972953d3d7cc34bad1f850f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69731c84bec22b47a3ce0c05"
+                ],
+                "Plate": "69731c84bec22b47a3ce0c05",
+                "armorColliders": [
+                  "HeadCommon",
+				  "Jaw"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }		
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "GRIMNIR - Odins helmet",
+        "shortName": "GRIMNIR",
+        "description": "GRIMNIR originates from Norse mythology and is one of Odin’s names, meaning ‘the masked one’ or ‘the hooded one.’"
+      }
+    },
+    "fleaPriceRoubles": 1500000,
+    "handbookPriceRoubles": 120000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "697299c04cb70db14d3c58c3",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "GRIMNIR - Odins helmet",
+        "_parent": "697299ec3936d463bacb3deb",
+        "_items": [
+          {
+            "_id": "697299ec3936d463bacb3deb",
+            "_tpl": "6972953d3d7cc34bad1f850f"
+          },
+          {
+            "_id": "6957d102e7eb1939c0c3f825",
+            "_tpl": "697296e758e52f17524377bd",
+            "parentId": "697299ec3936d463bacb3deb",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6957d103e7eb1939c0c3f826",
+            "_tpl": "697297b7031dc7f81c1fee29",
+            "parentId": "697299ec3936d463bacb3deb",
+            "slotId": "Helmet_back"
+          },
+		  {
+            "_id": "69731d84c46a7a3544606010",
+            "_tpl": "69731c84bec22b47a3ce0c05",
+            "parentId": "697299ec3936d463bacb3deb",
+            "slotId": "Helmet_jaw"
+          },		  
+		  {
+            "_id": "69729a8dab39b1d7667b23e5",
+            "_tpl": "69731c18e74581c4cc4e06be",
+            "parentId": "697299ec3936d463bacb3deb",
+            "slotId": "Helmet_eyes"
+          }		  
+        ],
+        "_encyclopedia": "6972953d3d7cc34bad1f850f"
+      }
+    ],
+    "staticLootContainers": []
+  }
+}

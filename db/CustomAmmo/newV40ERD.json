@@ -1,0 +1,63 @@
+{
+  "696911ab8b8b77c4e092de75": {
+    "itemTplToClone": "66dae7cbeb28f0f96809f325",
+    "parentId": "543be6564bdc2df4348b4568",
+    "handbookParentId": "5b5f7a2386f774093f2ed3c4",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ExaminedByDefault": true,
+      "ExplDelay": 0.5,
+      "explDelay": 0.5
+    },
+    "locales": {
+      "en": {
+        "name": "V40 Mini-Grenade (Extrem Reduced delay)",
+        "shortName": "V40 ERD",
+        "description": "V40 grenade developed exclusively for tripwire with extremely shortened fuse. THROW AT YOUR OWN RISK!"
+      }
+    },
+	"masteries": true,
+    "fleaPriceRoubles": 77885,
+    "handbookPriceRoubles": 1022,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 658
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 658
+      },
+	  {
+        "containerName": "LOOTCONTAINER_GRENADE_BOX",
+        "probability": 658
+      },
+	  {
+        "containerName": "LOOTCONTAINER_GRENADE_BOX_3X2_2",
+        "probability": 658
+      }	  
+    ]
+  }
+}

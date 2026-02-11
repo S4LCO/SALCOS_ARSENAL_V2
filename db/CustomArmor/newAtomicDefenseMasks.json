@@ -1,0 +1,176 @@
+{
+  "69110415f8c1ccab86021b17": {
+    "enabled": true,
+    "itemTplToClone": "657089638db3adca1009f4ca",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "armorClass": 6,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 40,
+      "MaxDurability": 40,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false
+    },
+    "locales": {
+      "en": {
+        "name": "Atomic Defense ballistic mask (Black) | Mk.2",
+        "shortName": "CQCM",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 862000,
+    "handbookPriceRoubles": 74802,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      }
+    ]
+  },
+  "691609c1c58ce6e096464374": {
+    "enabled": true,
+    "itemTplToClone": "67a5c6068fcd9fb73f0752cf",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "armorClass": 6,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 40,
+      "MaxDurability": 40,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false
+    },
+    "locales": {
+      "en": {
+        "name": "Atomic Defense CQCM ballistic mask (Skull) | Mk.2",
+        "shortName": "Skull",
+        "description": "Reinforced by ODIN."
+      }
+    },
+    "fleaPriceRoubles": 862000,
+    "handbookPriceRoubles": 74802,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      }
+    ]
+  },
+  "691609bc7ba77ce7c25e251e": {
+    "enabled": true,
+    "itemTplToClone": "67a5c61c7f52620c5b05b4d8",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "armorClass": 6,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 40,
+      "MaxDurability": 40,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false
+    },
+    "locales": {
+      "en": {
+        "name": "Atomic Defense CQCM ballistic mask (Demon) | Mk.2",
+        "shortName": "Demon",
+        "description": "Reinforced by ODIN."
+      }
+    },
+    "fleaPriceRoubles": 862000,
+    "handbookPriceRoubles": 74802,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 217,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      }
+    ]
+  }
+}

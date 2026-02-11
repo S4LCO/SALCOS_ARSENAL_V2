@@ -1,0 +1,76 @@
+{
+  "69299ea9cf66b6b09049ef6c": {
+    "itemTplToClone": "573603562459776430731618",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ammoAccr": 0,
+      "ammoRec": 0,
+      "ArmorDamage": 42,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Damage": 49,
+      "DurabilityBurnModificator": 1.5,
+      "FragmentationChance": 0.02,
+      "FragmentsCount": 0,
+      "HeatFactor": 1.19,
+      "HeavyBleedingDelta": 0,
+      "InitialSpeed": 555,
+      "LightBleedingDelta": 0,
+      "MalfFeedChance": 0.011,
+      "MalfMisfireChance": 0.148,
+      "MaxFragmentsCount": 1,
+      "MinFragmentsCount": 1,
+      "MisfireChance": 0.01,
+      "PenetrationChanceObstacle": 0.15,
+      "PenetrationDamageMod": 0.16,
+      "PenetrationPower": 47,
+      "RicochetChance": 0.3,
+      "Tracer": true,
+      "TracerColor": "red",
+	  "Caliber": "Caliber762x25TT"
+    },
+    "locales": {
+      "en": {
+        "name": "7.62x25mm - TinkyWinky",
+        "shortName": "TinkyWinky",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 999,
+    "handbookPriceRoubles": 850,
+    "addtoBots": true,
+    "addCaliberToAllCloneLocations": true,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 2655,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 1101
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 1101
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 1101
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 1101
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 1101
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 1101
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "6965f73311b653b39d8d3c18": {
+    "itemTplToClone": "68947a4be4bf255d1b0ca746",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "BackgroundColor": "red",
+      "BlocksArmorVest": true,
+      "ArmorType": "None",
+      "ArmorMaterial": "UHMWPE",
+      "BluntThroughput": 0.2403,
+      "mousePenalty": -6,
+      "speedPenaltyPercent": -10,
+      "weaponErgonomicPenalty": -10,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "RarityPvE": "Superrare",
+      "RepairCost": 1588,
+      "RepairSpeed": 22,
+      "Height": 4,
+      "Width": 3,
+      "Weight": 13.3
+    },
+    "locales": {
+      "en": {
+        "name": "VIDRIMNIR - Odins body armor",
+        "shortName": "VIDRIMNIR",
+        "description": "VIDRIMNIR originates from Norse mythology and is a kenning associated with Odin, roughly meaning ‘the one who is widely enclosed’ or ‘the far-encircled.’"
+      }
+    },
+    "fleaPriceRoubles": 12000000,
+    "handbookPriceRoubles": 180000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6965f31b9e21d732f9615727",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "VIDRIMNIR",
+        "_parent": "6965f3a77ad726397522a9d1",
+        "_items": [
+          {
+            "_id": "6965f3a77ad726397522a9d1",
+            "_tpl": "6965f73311b653b39d8d3c18"
+          },
+          {
+            "_id": "6965f43702c796683c87d922",
+            "_tpl": "6965ee8276af229d220d68b0",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "6965f44241c47ae33389e809",
+            "_tpl": "6965ee87d0427efa45d26069",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "6965f446ef15b8c51389974f",
+            "_tpl": "6965ee8cb4b2bb3a49c2caf6",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Soft_armor_left"
+          },
+          {
+            "_id": "6965f4494ac1c6dfc3a52fa3",
+            "_tpl": "6965ee92928dfed414ef71fd",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "soft_armor_right"
+          },
+          {
+            "_id": "6965f44c931719176f96e575",
+            "_tpl": "6965f02919977e502d26d31b",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Collar"
+          },
+          {
+            "_id": "6965f45015727af26a063c6d",
+            "_tpl": "6965f09d8e5c4e48ecd0db9d",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Shoulder_l"
+          },
+          {
+            "_id": "6965f4540214380297695cb5",
+            "_tpl": "6965f0a63727267d4602b567",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Shoulder_r"
+          },
+          {
+            "_id": "6965f4608e9d0b2f4b5a0001",
+            "_tpl": "6965ee74551898f828486bf3",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Groin"
+          },
+          {
+            "_id": "6965f457b54fab1fe071ed95",
+            "_tpl": "693da1f4e730b6700964dda7",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "6965f45bb3a57ac21bcb9268",
+            "_tpl": "693da1f4e730b6700964dda7",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Back_plate"
+          },
+          {
+            "_id": "6965f59218b76567eb4a3048",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Left_side_plate"
+          },
+          {
+            "_id": "6965f5b481fc40fe6c7cd411",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "parentId": "6965f3a77ad726397522a9d1",
+            "slotId": "Right_side_plate"
+          }
+        ],
+        "_encyclopedia": "6965f73311b653b39d8d3c18"
+      }
+    ],
+
+    "staticLootContainers": [
+      {
+        "probability": 210,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 210,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 210,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 210,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 210,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 210,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

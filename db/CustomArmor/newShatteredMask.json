@@ -1,0 +1,60 @@
+{
+  "692bfcb509c7a850394ccf93": {
+    "itemTplToClone": "5b432b2f5acfc4771e1c6622",
+    "parentId": "5a341c4686f77469e155819e",
+    "handbookParentId": "5b47574386f77428ca22b32f",
+    "overrideProperties": {
+      "armorClass": 4,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "Durability": 35,
+      "MaxDurability": 35,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "RarityPvE": "Superrare"
+    },
+    "locales": {
+      "en": {
+        "name": "Shattered lightweight armored mask | Mk.2",
+        "shortName": "Shattered",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 518988,
+    "handbookPriceRoubles": 95444,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE"
+      },
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 328,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      }
+    ]
+  }
+}
