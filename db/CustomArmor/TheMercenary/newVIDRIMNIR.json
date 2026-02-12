@@ -12,14 +12,18 @@
       "mousePenalty": -6,
       "speedPenaltyPercent": -10,
       "weaponErgonomicPenalty": -10,
-      "CanRequireOnRagfair": false,
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": true,
       "CanSellOnRagfair": true,
       "RarityPvE": "Superrare",
       "RepairCost": 1588,
       "RepairSpeed": 22,
+      "HideEntrails": true,
       "Height": 4,
       "Width": 3,
-      "Weight": 13.3
+      "Weight": 11.3,
+      "ConflictingItems": [],
+      "CantRemoveFromSlotsDuringRaid": []
     },
     "locales": {
       "en": {
@@ -28,7 +32,7 @@
         "description": "VIDRIMNIR originates from Norse mythology and is a kenning associated with Odin, roughly meaning ‘the one who is widely enclosed’ or ‘the far-encircled.’"
       }
     },
-    "fleaPriceRoubles": 12000000,
+    "fleaPriceRoubles": 650000,
     "handbookPriceRoubles": 180000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -48,49 +52,49 @@
           },
           {
             "_id": "6965f43702c796683c87d922",
-            "_tpl": "6965ee8276af229d220d68b0",
+            "_tpl": "6987842fbd6347318cce1366",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Soft_armor_front"
           },
           {
             "_id": "6965f44241c47ae33389e809",
-            "_tpl": "6965ee87d0427efa45d26069",
+            "_tpl": "69878432a107db12905aacb3",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Soft_armor_back"
           },
           {
             "_id": "6965f446ef15b8c51389974f",
-            "_tpl": "6965ee8cb4b2bb3a49c2caf6",
+            "_tpl": "6987843518ed3f21a5787831",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Soft_armor_left"
           },
           {
             "_id": "6965f4494ac1c6dfc3a52fa3",
-            "_tpl": "6965ee92928dfed414ef71fd",
+            "_tpl": "69878439d51d361683ff6b8f",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "soft_armor_right"
           },
           {
             "_id": "6965f44c931719176f96e575",
-            "_tpl": "6965f02919977e502d26d31b",
+            "_tpl": "6987843c4bb0f9bc3da11420",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Collar"
           },
           {
             "_id": "6965f45015727af26a063c6d",
-            "_tpl": "6965f09d8e5c4e48ecd0db9d",
+            "_tpl": "698784421d15f3f03aef4040",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Shoulder_l"
           },
           {
             "_id": "6965f4540214380297695cb5",
-            "_tpl": "6965f0a63727267d4602b567",
+            "_tpl": "698784457ac7db8dd6869b75",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Shoulder_r"
           },
           {
             "_id": "6965f4608e9d0b2f4b5a0001",
-            "_tpl": "6965ee74551898f828486bf3",
+            "_tpl": "6987843f4af562453ea6e616",
             "parentId": "6965f3a77ad726397522a9d1",
             "slotId": "Groin"
           },

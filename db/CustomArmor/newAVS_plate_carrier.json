@@ -13,7 +13,7 @@
       "BackgroundColor": "red",
       "Height": 4,
       "Width": 3,
-      "CanRequireOnRagfair": true,
+      "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
       "mousePenalty": -0.5,
       "speedPenaltyPercent": -3,

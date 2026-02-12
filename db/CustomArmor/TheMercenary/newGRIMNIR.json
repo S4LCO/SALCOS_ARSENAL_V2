@@ -47,9 +47,9 @@
             "filters": [
               {
                 "Filter": [
-                  "697296e758e52f17524377bd"
+                  "6988be2030dbd436684b11ca"
                 ],
-                "Plate": "697296e758e52f17524377bd",
+                "Plate": "6988be2030dbd436684b11ca",
                 "armorColliders": [
                   "ParietalHead"
                 ],
@@ -71,9 +71,9 @@
             "filters": [
               {
                 "Filter": [
-                  "697297b7031dc7f81c1fee29"
+                  "6988be23c35d85a52f10d8f4"
                 ],
-                "Plate": "697297b7031dc7f81c1fee29",
+                "Plate": "6988be23c35d85a52f10d8f4",
                 "armorColliders": [
                   "BackHead"
                 ],
@@ -121,7 +121,7 @@
         "description": "GRIMNIR originates from Norse mythology and is one of Odin’s names, meaning ‘the masked one’ or ‘the hooded one.’"
       }
     },
-    "fleaPriceRoubles": 1500000,
+    "fleaPriceRoubles": 550000,
     "handbookPriceRoubles": 120000,
     "addtoBots": false,
     "addtoModSlots": false,
@@ -141,13 +141,13 @@
           },
           {
             "_id": "6957d102e7eb1939c0c3f825",
-            "_tpl": "697296e758e52f17524377bd",
+            "_tpl": "6988be2030dbd436684b11ca",
             "parentId": "697299ec3936d463bacb3deb",
             "slotId": "Helmet_top"
           },
           {
             "_id": "6957d103e7eb1939c0c3f826",
-            "_tpl": "697297b7031dc7f81c1fee29",
+            "_tpl": "6988be23c35d85a52f10d8f4",
             "parentId": "697299ec3936d463bacb3deb",
             "slotId": "Helmet_back"
           },

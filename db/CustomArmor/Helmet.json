@@ -1,0 +1,597 @@
+{
+  "698d2e25c4d30614cd053b0b": {
+    "itemTplToClone": "66b5f661af44ca0014063c05",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "armorClass": 0,
+      "BackgroundColor": "red",
+      "RepairCost": 877,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "mousePenalty": -2,
+      "weaponErgonomicPenalty": -2,
+      "RarityPvE": "Superrare",
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "698d2ef691cdc82b33fafc7d",
+          "_parent": "698d2e25c4d30614cd053b0b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "698d2efb0fb2c71fff05d927",
+          "_parent": "698d2e25c4d30614cd053b0b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988bd3f28749432f6a476a6",
+                  "6988be038c572f8ea6418995",
+                  "6988be160f41e958dcc31532",
+                  "6988be2030dbd436684b11ca"
+                ],
+                "Plate": "6988bd3f28749432f6a476a6",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "698d2f02a56937a9d42943ed",
+          "_parent": "698d2e25c4d30614cd053b0b",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988bdfcbb5b17a28ddc875a",
+                  "6988be067e16373a02e6f70c",
+                  "6988be192202de62c6eecdc4",
+                  "6988be23c35d85a52f10d8f4"
+                ],
+                "Plate": "6988bdfcbb5b17a28ddc875a",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ballistic Armor Co. Bastion helmet (OD Green) | Mk.2",
+        "shortName": "BAC Bastion",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 256988,
+    "handbookPriceRoubles": 65823,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "698d2f4fcde3730caf5dd842",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ballistic Armor Co. Bastion helmet (OD Green) Default",
+        "_parent": "698d2f6fc23b7386443697e6",
+        "_items": [
+          {
+            "_id": "698d2f6fc23b7386443697e6",
+            "_tpl": "698d2e25c4d30614cd053b0b"
+          },
+          {
+            "_id": "698d2f400403dd284b7e31c7",
+            "_tpl": "6988bd3f28749432f6a476a6",
+            "parentId": "698d2f6fc23b7386443697e6",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "698d2f3935cc4762ee364d63",
+            "_tpl": "6988bdfcbb5b17a28ddc875a",
+            "parentId": "698d2f6fc23b7386443697e6",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "698d2e25c4d30614cd053b0b"
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  },
+  "698d31c849c2d16f44bb57e1": {
+    "itemTplToClone": "66b5f65ca7f72d197e70bcd6",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "armorClass": 0,
+      "BackgroundColor": "red",
+      "RepairCost": 877,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "mousePenalty": -2,
+      "weaponErgonomicPenalty": -2,
+      "RarityPvE": "Superrare",
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "698d318f73d915a294d5b313",
+          "_parent": "698d31c849c2d16f44bb57e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "698d3196f8026ca975f4d708",
+          "_parent": "698d31c849c2d16f44bb57e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988bd3f28749432f6a476a6",
+                  "6988be038c572f8ea6418995",
+                  "6988be160f41e958dcc31532",
+                  "6988be2030dbd436684b11ca"
+                ],
+                "Plate": "6988bd3f28749432f6a476a6",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "698d319aed1e0199cd75739e",
+          "_parent": "698d31c849c2d16f44bb57e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988bdfcbb5b17a28ddc875a",
+                  "6988be067e16373a02e6f70c",
+                  "6988be192202de62c6eecdc4",
+                  "6988be23c35d85a52f10d8f4"
+                ],
+                "Plate": "6988bdfcbb5b17a28ddc875a",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Ballistic Armor Co. Bastion helmet (OD Green) | Mk.2",
+        "shortName": "BAC Bastion",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 256988,
+    "handbookPriceRoubles": 65823,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "698d31a1d0ab6fdb8e852b48",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Ballistic Armor Co. Bastion helmet (OD Green) Default",
+        "_parent": "698d31a8ad82cde7799ad978",
+        "_items": [
+          {
+            "_id": "698d31a8ad82cde7799ad978",
+            "_tpl": "698d31c849c2d16f44bb57e1"
+          },
+          {
+            "_id": "698d2f400403dd284b7e31c7",
+            "_tpl": "6988bd3f28749432f6a476a6",
+            "parentId": "698d31a8ad82cde7799ad978",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "698d2f3935cc4762ee364d63",
+            "_tpl": "6988bdfcbb5b17a28ddc875a",
+            "parentId": "698d31a8ad82cde7799ad978",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "698d31c849c2d16f44bb57e1"
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  },
+  "6988c662ce571ac1ae9e5025": {
+    "itemTplToClone": "65719f0775149d62ce0a670b",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "armorClass": 0,
+      "BackgroundColor": "red",
+      "RepairCost": 877,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "BlocksHeadwear": false,
+      "mousePenalty": -2,
+      "weaponErgonomicPenalty": -2,
+      "RarityPvE": "Superrare",
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "6988c6f8a656688b3394b849",
+          "_parent": "6988c662ce571ac1ae9e5025",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "65719f9ef392ad76c50a2ec8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "6988c6f54df1b2b699dc7aff",
+          "_parent": "6988c662ce571ac1ae9e5025",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "6988c6f1d7ed4e32c07bff26",
+          "_parent": "6988c662ce571ac1ae9e5025",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "6988c6ecae051a3b1eaad023",
+          "_parent": "6988c662ce571ac1ae9e5025",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988bd3f28749432f6a476a6",
+                  "6988be038c572f8ea6418995",
+                  "6988be160f41e958dcc31532",
+                  "6988be2030dbd436684b11ca"
+                ],
+                "Plate": "6988bd3f28749432f6a476a6",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "6988c6e9152218a5f104227f",
+          "_parent": "6988c662ce571ac1ae9e5025",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988bdfcbb5b17a28ddc875a",
+                  "6988be067e16373a02e6f70c",
+                  "6988be192202de62c6eecdc4",
+                  "6988be23c35d85a52f10d8f4"
+                ],
+                "Plate": "6988bdfcbb5b17a28ddc875a",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "6988c6e4bee81dc751ba3f2c",
+          "_parent": "6988c662ce571ac1ae9e5025",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6988be007d70306421d56a7e",
+                  "6988be13bd62e8373e55e033",
+                  "6988be1d24e83688f2e9c226",
+                  "6988be26a4d7052665a2ab08"
+                ],
+                "Plate": "6988be007d70306421d56a7e",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": false
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "NPP KlASS Tor-2 helmet (Olive Drab) | Mk.2",
+        "shortName": "Tor-2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 255655,
+    "handbookPriceRoubles": 93155,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6988c7a9c47b7918a0422065",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "NPP KlASS Tor-2 helmet (Olive Drab) Default",
+        "_parent": "6988c779b63e6e566f09a748",
+        "_items": [
+          {
+            "_id": "6988c779b63e6e566f09a748",
+            "_tpl": "6988c662ce571ac1ae9e5025"
+          },
+          {
+            "_id": "6988c7ae9c3c66a54a30c396",
+            "_tpl": "6988bd3f28749432f6a476a6",
+            "parentId": "6988c779b63e6e566f09a748",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6988c7b23bd8b1f7180ad7e9",
+            "_tpl": "6988bdfcbb5b17a28ddc875a",
+            "parentId": "6988c779b63e6e566f09a748",
+            "slotId": "Helmet_back"
+          },
+          {
+            "_id": "6988c7b65e560aa24429c316",
+            "_tpl": "6988be007d70306421d56a7e",
+            "parentId": "6988c779b63e6e566f09a748",
+            "slotId": "Helmet_ears"
+          }
+        ],
+        "_encyclopedia": "6988c662ce571ac1ae9e5025"
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5"
+      },
+      {
+        "probability": 420,
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3"
+      }
+    ]
+  }
+}
