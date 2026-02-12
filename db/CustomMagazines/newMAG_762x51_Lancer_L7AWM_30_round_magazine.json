@@ -1,0 +1,76 @@
+{
+  "695f7fa2131cae09872c060d": {
+    "itemTplToClone": "65293c7a17e14363030ad308",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "Ergonomics": -3.5,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+	  "RarityPvE": "Superrare",
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "695f82350a47f2aaa656a3f4",
+		  "_max_count": 30,
+          "_parent": "695c9595f961a5aded0bb904",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a6086ea4f39f99cd479502f",
+                  "5a608bf24f39f98ffc77720e",
+                  "58dd3ad986f77403051cba8f",
+                  "5e023e53d4353e3302577c4c",
+                  "5efb0c1bd79ff02a1f5e68d9",
+                  "5e023e6e34d52a55c3304f71",
+                  "5e023e88277cce2b522ff2b1",
+                  "6529243824cbe3c74a05e5c1",
+                  "6529302b8c26af6326029fb7",
+                  "6768c25aa7b238f14a08d3f6",
+				  "6919b5811e75db023f1f0db6"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-10 7.62x51 Lancer L7AWM 30-round magazine",
+        "shortName": "L7AWM",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 76877,
+    "handbookPriceRoubles": 12544,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 544
+      }
+    ]
+  }
+}
