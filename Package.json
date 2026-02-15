@@ -1,7 +1,7 @@
 {
   "name": "Salco's Arsenal",
   "author": "Salco",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "license": "MIT",
   "sptVersion": "~4.0.3",
   "main": "SalcosArsenal.dll",
