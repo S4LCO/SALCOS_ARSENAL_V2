@@ -15,7 +15,7 @@ public sealed record ModMetadata : AbstractModMetadata
     public override string ModGuid { get; init; } = "de.salco.salcosarsenal";
     public override string Name { get; init; } = "Salco’s Arsenal";
     public override string Author { get; init; } = "Salco";
-    public override SemanticVersioning.Version Version { get; init; } = new("2.0.1");
+    public override SemanticVersioning.Version Version { get; init; } = new("2.0.2");
     public override Range SptVersion { get; init; } = new("~4.0.3");
 
     public override string License { get; init; } = "MIT";
